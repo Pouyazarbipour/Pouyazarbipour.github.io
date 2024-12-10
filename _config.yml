@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "pouyazarbipour"
+title                    : "Pouya Zarbipour's Personal Website"
 title_separator          : "-"
-name                     : &name "Yuanqi Du"
+name                     : &name "Pouya Zarbipour"
 description              : &description "personal description"
 url                      : https://pouyazarbipour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pouyazarbipour/pouyazarbipour.github.io"
-teaser                   :  "site_logo.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "profile.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : YuanqiD
+  username               : Pouyazarbipour
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanqi Du"
-  avatar           : "avatar.jpg"
-  bio              : "PhD Student, Cornell University"
-  location         : "Ithaca, NY"
+  name             : "Pouya Zarbipour-Lakposhteh"
+  avatar           : "IMG_0386.JPG"
+  bio              : "MSc Student, Tarbiat Modares University"
+  location         : "Gilan, Iran"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en"
-  email            : "yuanqidu@cs.cornell.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://yuanqidu.github.io/"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=V5aIzssAAAAJ&hl=en&authuser=1"
+  email            : "pouyazarbipour@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Pouya-Zarbipour"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuanqidu"
+  github           : "pouyazarbipour"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuanqi-du-523968148"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "pouya-zarbipour"
+  orcid            : "http://orcid.org/0000-0002-8024-9062"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YuanqiD"
+  twitter          : "pouyazarbipour"
   vine             :
   weibo            :
   xing             :
