@@ -5,7 +5,7 @@ category: manuscripts
 excerpt: 'Implementing safety factors based on an acceptable Pf is a novel approach introduced in this research to control the acceptable hours per year that excess concentration can surpass the environmental criteria. The introduced method can be applied either to design new desalination plants or to evaluate the reliability of existing plants.'
 date: 2024-01-12
 venue: 'Ocean Engineering'
-paperurl: '[DOI](https://doi.org/10.1016/j.oceaneng.2024.119465)'
+paperurl: '/file/1-s2.0-S0029801824028038-main.pdf'
 citation: 'Zarbipour, P., & Akbari, H. (2024). Reliability design of seawater desalination outfalls based on a novel probabilistic environmental assessment. Ocean Engineering, 313, 119465.'
 ---
 
