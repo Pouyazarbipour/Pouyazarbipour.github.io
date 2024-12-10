@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-permalink: /publication/2009-10-01-paper-title-number-1
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+
+[Download CV](https://github.com/Pouyazarbipour/pouyazarbipour.github.io/blob/master/cv/CV%20-%20Pouya%20Zarbipour.pdf)
 
   
