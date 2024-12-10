@@ -15,5 +15,6 @@ Research Assistant at [Tarbiat Modares University](https://modares.ac.ir), worki
   * ***Reliability-Based Design Optimization***
   * **Risk and Resilience***
   * **Coastal Engineering***
+  * **Machine learning***
 
 Additional topics I am interested in include: Hydrodynamics.
