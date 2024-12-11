@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The latest version of CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download the latest version of my CV from this [Link](https://github.com/Pouyazarbipour/pouyazarbipour.github.io/blob/master/cv/CV%20-%20Pouya%20Zarbipour.pdf).
 
-[Download CV](https://github.com/Pouyazarbipour/pouyazarbipour.github.io/blob/master/cv/CV%20-%20Pouya%20Zarbipour.pdf)
 
   
