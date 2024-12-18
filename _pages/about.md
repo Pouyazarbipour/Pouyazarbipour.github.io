@@ -17,4 +17,4 @@ Research Assistant at [Tarbiat Modares University](https://modares.ac.ir), worki
   * **Coastal Engineering**
   * **Machine learning**
 
-Additional topics I am interested in include: Multi-Hazard Risk Assessment.
+Additional topics I am interested in include: Multi-Hazard Risk Assessment and Remote Sensing.
